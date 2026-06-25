@@ -48,7 +48,21 @@ Description : Reddit posts from r/SuicideWatch and r/teenagers labeled as suicid
 
 > ⚠️ **Note:** Some Dataset files are NOT included in this repository due to file size limits. Use the `download_data.py` script below to download them automatically.
 
+# Dataset Setup
 
+This project uses the [Suicide and Depression Detection](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch) dataset from Kaggle.
+
+#How to Download the Dataset
+
+1. Install Kaggle API:
+ 
+   pip install kaggle
+3. Get your Kaggle API key:
+   - Go to https://www.kaggle.com → Account → API → Create New Token
+   - Place `kaggle.json` in `~/.kaggle/kaggle.json`
+
+4. Run the download script:
+   python download_data.py
  
 
 
