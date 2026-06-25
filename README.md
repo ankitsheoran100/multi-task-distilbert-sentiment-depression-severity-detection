@@ -49,23 +49,6 @@ Description : Reddit posts from r/SuicideWatch and r/teenagers labeled as suicid
 > ⚠️ **Note:** Some Dataset files are NOT included in this repository due to file size limits. Use the `download_data.py` script below to download them automatically.
 
 
- Requirements :
-
  
-transformers
-torch
-datasets
-coral-pytorch
-contractions
-imbalanced-learn
-scikit-learn
-statsmodels
-pandas
-numpy
-matplotlib
-seaborn
-accelerate
-kaggle
-
 
 
